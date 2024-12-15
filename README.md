@@ -9,7 +9,7 @@ Data Preprocessing: Handles missing values and encodes categorical variables to 
 
 Feature Selection: Identifies the most important features contributing to the diagnosis using techniques like feature importance from RandomForest.
 
-Model Training: Implements several ensemble methods, including RandomForest, GradientBoosting, XGBoost, and LightGBM.
+Model Training: Implements several ensemble methods, including SVM ,RandomForest, GradientBoosting, XGBoost, and LightGBM.
 
 Model Evaluation: Evaluates models using metrics such as accuracy, precision, recall, F1-score, and ROC AUC.
 
