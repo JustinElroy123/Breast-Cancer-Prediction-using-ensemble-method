@@ -1,5 +1,5 @@
 # Breast-Cancer-Prediction-using-ensemble-method
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/73e0c4a2-329a-4097-8d05-6695574a9a2a)
 
 Overview
 This repository contains a machine learning project focused on predicting breast cancer diagnosis using various ensemble methods. The primary goal is to create a robust model that can accurately classify tumors as malignant (cancerous) or benign (non-cancerous) based on medical features.
